@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">App_Replica_FriendFindr</string>
+    <string name="app_name">App_py_integrador_friendss</string>
+    <string name="people_button">People</string>
+    <string name="favorite_button">Favorite</string>
 </resources>
